@@ -15,6 +15,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/3astbeast/RedTail-Goldbach-Po3/refs/heads/main/Screenshot%202026-03-03%20130031.png" width="800" alt="RedTail Goldbach Po3 Screenshot"/>
+</p>
+
 ---
 
 ## Overview
