@@ -128,11 +128,13 @@ Every level type has independent visual controls:
 
 ## Installation
 
-1. Download the `.cs` file from this repository
-2. Open NinjaTrader 8
-3. Go to **Tools → Import → NinjaScript Add-On**
-4. Select the downloaded file and click **OK**
-5. The indicator will appear in your **Indicators** list — add it to any chart
+1. Download the .cs file from the indicator's repository
+2. Copy the .cs to documents\Ninja Trader 8\bin\custom\indicators
+3. Open Ninja Trader (if not already open) 
+4. In control center, go to New --> Ninja Script Editor
+5. Expand the Indicator Tree, find your new indicator, double click to open it
+6. At the top of the Editor window, click the "Compile" button
+7. That's it!
 
 > **Note:** This indicator adds a secondary 1-minute data series for precise settlement detection. NinjaTrader will automatically load the required data when the indicator is applied.
 
